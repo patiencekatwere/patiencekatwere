@@ -2,7 +2,7 @@
 - 👀 I’m interested in projects analsysis
 - 🌱 I’m currently learning deep analysis
 - 💞️ I’m looking to collaborate on project analysis
-- 📫 How to reach me https://github.com/
+- 📫 How to reach me https://github.com/patiencekatwere
 - 😄 Pronouns: KP 
 - ⚡ Fun fact: 
 <!---
